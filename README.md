@@ -1,6 +1,6 @@
 **Fantasy Cricket Backend**
 
-*Introduction*
+***Introduction***
 
 This project is a simple backend application for a fantasy cricket app similar to Dream11. It allows users to create cricket teams, select players, assign captain and vice-captain, and then process match results to calculate points for each team.
 
